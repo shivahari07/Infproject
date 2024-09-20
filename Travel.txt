@@ -2,3 +2,6 @@ Scenario1: Madurai to chennai
 Scenrio2: chennai to bangaluru
 Scenario3 :madurai to theni
 Scenario4: America to new york
+Scenario5: Australia to colambia
+Scenario6: Tamilnadu to Kerala
+
